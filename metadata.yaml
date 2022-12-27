@@ -1,0 +1,40 @@
+_repo: A-defence-of-modern-spiritualism_69454
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sargent, Epes
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '32700'
+    url: http://www.gutenberg.org/2009/agents/32700
+    wikipedia: https://en.wikipedia.org/wiki/Epes_Sargent_(poet)
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, A. R. (Alfred Russel)
+    - Wallace, Russell
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: ''
+gutenberg_issued: '2022-12-01'
+identifiers:
+  gutenberg: '69454'
+language: en
+pgterms:marc904: https://archive.org/details/defenceofmoderns00wall
+pgterms:marc905: 20211012093718wallace
+pgterms:marc906: '1874'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Colby and Rich,1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A defence of modern spiritualism
+url: http://www.gutenberg.org/ebooks/69454
